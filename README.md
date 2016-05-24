@@ -22,7 +22,7 @@ We are going to remake the popular game Color Switch. Users must tap the ball ca
 
 5/22: Implemented a better ball/color collision detector, created stars and point system, reintroduced the color-changing ball.
 
-5/23: Started making a randomized game. Fixed resetting issues (< all on CarolDev).
+5/23: Started making a randomized game. Fixed resetting issues.
 
 ##Outline
 ###Essentials:
